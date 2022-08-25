@@ -24,5 +24,4 @@ const Hero = props => (
     </LeftSection>
   </Section>
 );
-ssss;
 export default Hero;
